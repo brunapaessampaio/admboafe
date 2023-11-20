@@ -1,0 +1,6 @@
+@AdmBoaFe_HostAddress = http://localhost:5027
+
+GET {{AdmBoaFe_HostAddress}}
+Accept: application/json
+
+###
