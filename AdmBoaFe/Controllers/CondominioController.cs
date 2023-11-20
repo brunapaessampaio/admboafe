@@ -46,11 +46,11 @@ namespace AdmBoaFe.Controllers
             return NoContent();
         }
 
-        [Route("{id}")]
+        [Route("{idChave}")]
         [HttpDelete]
-        public async Task<IActionResult> DeletarCondominio(int idBloco)
+        public async Task<IActionResult> DeletarCondominio(int idChave)
         {
-            _condService.DeletarCondominio(idBloco);
+            _condService.DeletarCondominio(idChave);
             return NoContent();
         }
     }

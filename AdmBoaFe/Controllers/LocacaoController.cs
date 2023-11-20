@@ -45,7 +45,7 @@ namespace AdmBoaFe.Controllers
             return NoContent();
         }
 
-        [Route("{id}")]
+        [Route("{idChave}")]
         [HttpDelete]
         public async Task<IActionResult> DeletarLocacao(int idChave)
         {
