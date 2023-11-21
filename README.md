@@ -4,7 +4,8 @@
 Esta documentação visa facilitar o entendimento e a utilização dos itens contidos na API AdmBoaFe.App. Para melhor compreensão, foi detalhado neste documento, os métodos e seus tipos de parâmetros e retornos, com descrição e caminho de acesso. Visando facilitar a instalação da aplicação localmente, foi feito um vídeo explicativo e seu link está disponibilizado abaixo.
 
 Nosso github: https://github.com/brunapaessampaio
-Link do vídeo explicativo: 
+
+Link do vídeo explicativo: https://github.com/brunapaessampaio/admboafe/blob/master/AdmBoaFe/Diagramas/Video_AdmBoaFe_BrunaSampaio.mp4
 
 ## SOBRE A ADM BOA FÉ
 
