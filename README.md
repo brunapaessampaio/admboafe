@@ -1,9 +1,11 @@
 
 ## INTRODUÇÃO
 
-Esta documentação visa facilitar o entendimento e a utilização dos itens contidos na API AdmBoaFe.App. Para melhor compreensão, foi detalhado neste documento, os métodos e seus tipos de parâmetros e retornos, com descrição e caminho de acesso.
+Esta documentação visa facilitar o entendimento e a utilização dos itens contidos na API AdmBoaFe.App. Para melhor compreensão, foi detalhado neste documento, os métodos e seus tipos de parâmetros e retornos, com descrição e caminho de acesso. Visando facilitar a instalação da aplicação localmente, foi feito um vídeo explicativo e seu link está disponibilizado abaixo.
 
 Nosso github: https://github.com/brunapaessampaio
+Link do vídeo explicativo: 
+
 ## SOBRE A ADM BOA FÉ
 
 Administradora Boa Fé se apresenta como uma empresa especializada na administração de condomínios e na gestão de aluguéis de imóveis. Comprometidos com a excelência e a
